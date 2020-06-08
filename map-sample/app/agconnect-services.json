@@ -1,0 +1,12 @@
+{
+	"client":{
+		"cp_id":"2640057000001164399",
+		"product_id":"736430079244495596",
+		"client_id":"378295106211415104",
+		"client_secret":"C8EA57322291546047E21526887275C4AB32636BD1AE28743B852F606F9BDD09",
+		"app_id":"102354397",
+		"package_name":"com.huawei.hms.maps.sampleHMSMaps",
+		"api_key":"CV8B54p1zoxFROrHG0IC2Sycmbne32KgyWo/OzKbGaA4KWwlY2xgB+56ikV3y6wGHAl0oG4ULgjMyU7h3NIiw76B72la"
+	},
+	"configuration_version":"1.0"
+}
